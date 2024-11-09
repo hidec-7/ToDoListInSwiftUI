@@ -86,10 +86,10 @@
 				};
 			};
 			buildConfigurationList = 5FE936D32CDF883600A9542F /* Build configuration list for PBXProject "ToDoListInSwiftUI" */;
-			developmentRegion = en;
+			developmentRegion = ja;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-				en,
+				ja,
 				Base,
 			);
 			mainGroup = 5FE936CF2CDF883600A9542F;
